@@ -1,3 +1,14 @@
+<h1>rodar xampp, executar o cool_db para abrir o banco de dados, rodar npm install e baixar as dependencias, live server na pagina index.html e npm run dev para rodar a api</h1>
+<p>nao consegui conectar a api do maps</p>
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
